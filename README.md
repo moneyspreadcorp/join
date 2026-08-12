@@ -1,0 +1,1 @@
+LANDING PAGE for the MoneySpread Corporation initiative – focused on building financial and analytics systems that detect fraudulent activity, with an emphasis on telecommunications and related industries.
